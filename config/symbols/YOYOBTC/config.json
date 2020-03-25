@@ -1,0 +1,11 @@
+{
+    "config": {
+        "quantity": 15,
+        "entryPoint": 0.25,
+        "exitPoint": 0.75
+    },
+
+    "indicators": {
+    	"pnd": false
+    }
+}
